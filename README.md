@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning Data Science, ML and AI
 - 📫 Reach me out: syedafrozw@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syedafrozw/) [<img src='[https://](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/)linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syed-afroz-w-6a89a8181/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syedafrozw/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syed-afroz-w-6a89a8181/)
+
+[![Afroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedafrozw)](https://github.com/syedafrozw/github-readme-stats)
   
 <!--
 **syedafrozw/syedafrozw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
