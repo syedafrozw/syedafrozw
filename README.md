@@ -33,9 +33,9 @@
 
 ### :man_technologist: About me
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangalore, India.
 
-- :man_student: Completed my bachelor in Electronics and Communication from VIT, Vellore.
+- :man_student: Completed my bachelor from Vellore Institute of Technology (VIT), Vellore.
 
 - :telescope: Working as a Software Engineer and contributing to embedded programming for building automotive related applications.
 
@@ -43,9 +43,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :man_technologist: Deeply passionate about AI, Machine Learning and Deep Learning.
 
-- :zap: I'll be tuning into some tunes during my free moments.
+- :zap: Will be tuning into some music during my free moments.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/syed-afroz-w-6a89a8181)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/syed-afroz-w-6a89a8181)
 
 
 ---
