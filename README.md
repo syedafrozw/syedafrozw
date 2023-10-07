@@ -80,11 +80,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syedafrozw&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedafrozw&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedafrozw&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=8)
 
-![Syed Afroz's github stats](https://github-readme-stats.vercel.app/api?username=syedafrozw&layout=compact&theme=vision-friendly-dark)
-
-
+![Syed Afroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedafrozw&show_icons=true&theme=vision-friendly-dark)
 
 
 
