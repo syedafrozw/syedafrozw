@@ -66,9 +66,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/homebrew/homebrew-line-wordmark.svg" title=“HomeBrew alt=“HomeBrew width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <span title="RTOS">⏱️ IPC</span>&nbsp;
-  <span title="QNX">🤖 IPC</span>&nbsp;
-  <span title="Yocto">🖥️ IPC</span>&nbsp;
+  <span title="RTOS">⏱️ RTOS </span>&nbsp;
+  <span title="QNX">🤖 QNX </span>&nbsp;
+  <span title="Yocto">🖥️ Yocto </span>&nbsp;
   <span title="IPC Communication">📡 IPC</span>&nbsp; <!-- Text label for IPC -->
   <span title="Distributed File System">📁 DFS</span>&nbsp; <!-- Text label for DFS -->
   <span title="CANoe">🚗 CANoe</span>&nbsp; <!-- Text label for CANoe -->
