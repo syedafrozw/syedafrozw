@@ -37,42 +37,66 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :man_student: Completed my bachelor from Vellore Institute of Technology (VIT), Vellore.
 
-- :telescope: Working as a Software Engineer and contributing to embedded programming for building automotive related applications.
+- :telescope: Working as a Software Engineer and contributing to embedded programming for building automotive-related applications.
 
 - :seedling: Diving into the exciting world of data science to uncover hidden insights.
 
-- :man_technologist: Deeply passionate about AI, Machine Learning and Deep Learning.
+- :man_technologist: Deeply passionate about AI, Machine Learning, and Deep Learning.
 
 - :zap: Will be tuning into some music during my free moments.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/syed-afroz-w-6a89a8181) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](syedafrozw@gmail.com)
-
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/syed-afroz-w-6a89a8181) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:syedafrozw@gmail.com)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" title="Aarch64" alt="Aarch64" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/homebrew/homebrew-line-wordmark.svg" title=“HomeBrew alt=“HomeBrew width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="EmbeddedC" alt="EmbeddedC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" title="Aarch64" alt="Aarch64" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" **alt="SQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <span title="RTOS">⏱️ IPC</span>&nbsp;
+  <span title="QNX">🤖 IPC</span>&nbsp;
+  <span title="Yocto">🖥️ IPC</span>&nbsp;
+  <span title="IPC Communication">📡 IPC</span>&nbsp; <!-- Text label for IPC -->
+  <span title="Distributed File System">📁 DFS</span>&nbsp; <!-- Text label for DFS -->
+  <span title="CANoe">🚗 CANoe</span>&nbsp; <!-- Text label for CANoe -->
 </div>
 
+---
+
+### :fire: My Professional Experience:
+
+- 🏎️ Working in an automotive domain as a Software Developer.
+
+- 💻 Skilled in C++, C, and Embedded C programming languages.
+
+- 📦 Experienced in developing applications in C and C++ for deployment.
+
+- 🖥️ Proficient in working on Windows, Linux, Ubuntu, and MacOS environments.
+
+- ⏱️ Hands-on experience with RTOS like FreeRTOS, SafeRTOS, and QNX.
+
+- 🤖 Experienced in working with Robotic OS (ROS2 framework).
+
+- 🛠️ Skilled in using Yocto Toolchain for embedded systems development.
+
+- 🖥️ Experience with TI Chipset platforms like Jacinto TDA4VM, TDA4VH.
+
+- 🌐 Experienced in using FastDDS communication within a network.
+
+- 📂 Experience working with CMake files.
 
 ---
 
@@ -80,45 +104,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syedafrozw&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedafrozw&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedafrozw&layout=compact&theme=vision-friendly-dark)
 
-![Syed Afroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedafrozw&show_icons=true&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedafrozw&show_icons=true&theme=vision-friendly-dark)
 
-
-
-
-
-<!--
-
-### Hi there 👋
-
-## I'm Afroz
-
-#### About :
-
-- ⚡ I have completed my bachelor in Electronics and Communication from VIT, Vellore
-- ⚡  I am really passionate about Artificial Intelligence, Deep Learning and Machine Learning.
-- 🔭 I’m currently working on enhancing my knowledge on embedded programming in Wipro Limited.
-- 🌱 I’m currently exploring in the field of Data Science.
-- 📫 Reach me out: syedafrozw@gmail.com
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syedafrozw/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syed-afroz-w-6a89a8181/)
-
-[![Afroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedafrozw)](https://github.com/syedafrozw/github-readme-stats)
-
--->
-  
-<!--
-**syedafrozw/syedafrozw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on enhancing my knowledge on embedded programming.
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
